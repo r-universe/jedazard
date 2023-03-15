@@ -1,10 +1,10 @@
 [
   {
-    "package": "superpc",
+    "package": "MVR",
     "oncran": true
   },
   {
-    "package": "MVR",
+    "package": "superpc",
     "oncran": true
   }
 ]
